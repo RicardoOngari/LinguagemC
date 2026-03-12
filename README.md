@@ -27,7 +27,7 @@ Durante as aulas são trabalhados conceitos como:
 
 ## 👨‍💻 Autor
 
-Ricardo Rodrigues  
+Ricardo Ongari  
 Estudante de **Análise e Desenvolvimento de Sistemas**
 
 ---
